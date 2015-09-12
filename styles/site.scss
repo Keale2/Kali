@@ -7,8 +7,13 @@ html, body {
 }
 
 body {
-    background: linear-gradient(yellow, #08f, #60f);
+    background: linear-gradient(yellow, #0ff, #60f, yellow );
     color: #000;
     
 }
 
+.important {
+    background-color: blue;
+    color: #0ff;
+    padding: 10px;
+}
