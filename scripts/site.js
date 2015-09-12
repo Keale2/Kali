@@ -5,7 +5,7 @@
 // this is so much fun i want to do this more often!
 
  //alert("Hi!what up :).");
-
+ 
 
 var els = document.getElementsByClassName("changeMessage");
 
