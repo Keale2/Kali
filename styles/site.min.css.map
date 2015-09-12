@@ -1,1 +1,0 @@
-{"version":3,"sources":["site.scss"],"names":[],"mappings":"AAAA,EACI,WAAA,WAGE,KAAA,KACF,OAAA,KAGJ,KACI,WAAA,0CAAA,WAAA,kCACA,MAAA","file":"site.min.css","sourcesContent":["* {\n    box-sizing: border-box;\n}\n\nhtml, body {\n    height: 100%;\n}\n\nbody {\n    background: linear-gradient(yellow, #08f, #60f);\n    color: #000;\n    \n}\n\n"],"sourceRoot":"./"}
